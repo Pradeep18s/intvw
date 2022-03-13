@@ -19,7 +19,6 @@ public class ascending {
 			}
 			System.out.println(a[i]);
 			
-			System.out.println("hiii");
 			
 		}
 	}
